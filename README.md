@@ -1,0 +1,1 @@
+# swap-salary-sql-leetcode
